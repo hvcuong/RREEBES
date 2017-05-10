@@ -1,7 +1,9 @@
 {
   "idadmod": {
     "baner": "ca-app-pub-6190532367875222/3120599598",
-    "banerfull": "ca-app-pub-6190532367875222/7550799196"
+    "banerfull": "ca-app-pub-6190532367875222/7550799196",
+    "score": "10",
+    "countdie": "2"
   },
   "version": {
     "name": "1.0.0",
