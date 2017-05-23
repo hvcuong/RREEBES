@@ -3,7 +3,7 @@
     "admod": {
       "setting": {
         "countdie": "2",
-        "scoredie": "500"
+        "scoredie": "1000"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/3329945597",
@@ -11,15 +11,15 @@
       }
     }
   },
-  "GAME2": {
+  "SPINIOS": {
     "admod": {
       "setting": {
         "countdie": "2",
-        "scoredie": "500"
+        "scoredie": "1000"
       },
       "id": {
-        "fullbanner": "",
-        "banner": ""
+        "banner": "ca-app-pub-6190532367875222/4342347192",
+        "fullbanner": "ca-app-pub-6190532367875222/2865613993"
       }
     }
   }
