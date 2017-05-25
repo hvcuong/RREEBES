@@ -2,7 +2,7 @@
   "SPINADR": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "3",
         "scoredie": "1000"
       },
       "id": {
