@@ -22,5 +22,17 @@
         "fullbanner": "ca-app-pub-6190532367875222/2865613993"
       }
     }
+  },
+  "SPINADRPLANE": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "10"
+      },
+      "id": {
+        "banner": "ca-app-pub-6190532367875222/4342347192",
+        "fullbanner": "ca-app-pub-6190532367875222/2865613993"
+      }
+    }
   }
 }
