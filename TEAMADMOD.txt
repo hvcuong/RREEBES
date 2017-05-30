@@ -10,5 +10,17 @@
         "fullbanner": "ca-app-pub-6190532367875222/4806678792"
       }
     }
+  },
+  "PRINCESS": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "40"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/5941889349",
+        "fullbanner": "ca-app-pub-6212138848197070/7418622543"
+      }
+    }
   }
 }
