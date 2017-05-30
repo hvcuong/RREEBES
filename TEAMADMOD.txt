@@ -11,6 +11,18 @@
       }
     }
   },
+  "ARCHERIOS": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "10"
+      },
+      "id": {
+        "banner": "ca-app-pub-6190532367875222/3329945597",
+        "fullbanner": "ca-app-pub-6190532367875222/4806678792"
+      }
+    }
+  },
   "PRINCESS": {
     "admod": {
       "setting": {
