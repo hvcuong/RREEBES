@@ -34,5 +34,17 @@
         "fullbanner": "ca-app-pub-6190532367875222/2865613993"
       }
     }
+  },
+  "SPINADRPLANEIOS": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "10"
+      },
+      "id": {
+        "banner": "ca-app-pub-6190532367875222/4878253995",
+        "fullbanner": "ca-app-pub-6190532367875222/6354987192"
+      }
+    }
   }
 }
