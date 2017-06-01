@@ -27,11 +27,12 @@
     "admod": {
       "setting": {
         "countdie": "2",
-        "scoredie": "40"
+        "scoredie": "20"
       },
       "id": {
         "banner": "ca-app-pub-6212138848197070/5941889349",
-        "fullbanner": "ca-app-pub-6212138848197070/7418622543"
+        "fullbanner": "ca-app-pub-6212138848197070/7418622543",
+        "bannervideo": "ca-app-pub-6212138848197070/3149873346"
       }
     }
   }
