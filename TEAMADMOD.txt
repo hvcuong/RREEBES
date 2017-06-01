@@ -35,5 +35,18 @@
         "bannervideo": "ca-app-pub-6212138848197070/3149873346"
       }
     }
+  },
+  "PRINCESSIOS": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/7600092548",
+        "fullbanner": "ca-app-pub-6212138848197070/9076825742",
+        "bannervideo": "ca-app-pub-6212138848197070/1553558940"
+      }
+    }
   }
 }
