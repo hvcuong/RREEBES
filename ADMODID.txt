@@ -2,7 +2,7 @@
   "SPINADR": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "1",
         "scoredie": "1000"
       },
       "id": {
@@ -14,7 +14,7 @@
   "SPINIOS": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "1",
         "scoredie": "1000"
       },
       "id": {
