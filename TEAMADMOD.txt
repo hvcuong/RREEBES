@@ -48,5 +48,18 @@
         "bannervideo": "ca-app-pub-6212138848197070/1553558940"
       }
     }
+  },
+  "BALL": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/7297211343",
+        "fullbanner": "cca-app-pub-6212138848197070/8773944540",
+        "bannervideo": "ca-app-pub-6212138848197070/1250677740"
+      }
+    }
   }
 }
