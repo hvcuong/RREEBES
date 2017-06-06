@@ -25,7 +25,7 @@
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
-        "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
+        "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
       },
       "RANDUM": {
         "GAME1": {
