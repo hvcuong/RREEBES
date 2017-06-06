@@ -1,0 +1,42 @@
+{
+  "IOS": {
+    "ISSHOWADS": "true",
+    "SETTYPE": "randum",
+    "TYPE": {
+      "one": {
+        "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+        "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
+      },
+      "randum": {
+        "GAME1": {
+          "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+          "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
+        },
+        "GAME2": {
+          "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+          "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
+        }
+      }
+    }
+  },
+  "ANDROID": {
+    "ISSHOWADS": "true",
+    "SETTYPE": "randum",
+    "TYPE": {
+      "one": {
+        "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+        "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
+      },
+      "randum": {
+        "GAME1": {
+          "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+          "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
+        },
+        "GAME2": {
+          "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
+          "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
+        }
+      }
+    }
+  }
+}
