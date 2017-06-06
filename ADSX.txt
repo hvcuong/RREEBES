@@ -21,7 +21,7 @@
   },
   "ANDROID": {
     "ISSHOWADS": "true",
-    "SETTYPE": "randum",
+    "SETTYPE": "one",
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
