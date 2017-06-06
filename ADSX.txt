@@ -7,7 +7,7 @@
         "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
         "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
       },
-      "randum": {
+      "RANDUM": {
         "GAME1": {
           "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
           "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
@@ -21,13 +21,13 @@
   },
   "ANDROID": {
     "ISSHOWADS": "true",
-    "SETTYPE": "one",
+    "SETTYPE": "randum",
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
         "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
       },
-      "randum": {
+      "RANDUM": {
         "GAME1": {
           "LINK": "com.bug.archer",
           "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
