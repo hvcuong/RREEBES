@@ -33,7 +33,11 @@
           "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
         },
         "GAME2": {
-          "LINK": "com.bug.archer",
+          "LINK": "com.burger.redball",
+          "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
+        },
+        "GAME3": {
+          "LINK": "com.burger.princessrun",
           "LINKIMG": "http://i.imgur.com/wmA11hS.jpg"
         }
       }
