@@ -3,7 +3,7 @@
     "ISSHOWADS": "true",
     "SETTYPE": "randum",
     "TYPE": {
-      "one": {
+      "ONE": {
         "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
         "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
       },
@@ -23,7 +23,7 @@
     "ISSHOWADS": "true",
     "SETTYPE": "randum",
     "TYPE": {
-      "one": {
+      "ONE": {
         "LINK": "https://play.google.com/store/apps/details?id=com.bug.archer",
         "LINKIMAGE": "http://i.imgur.com/wmA11hS.jpg"
       },
