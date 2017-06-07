@@ -36,6 +36,11 @@
           "LINK": "com.bug.archer",
           "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
+        },
+         "GAME2": {
+          "LINK": "com.bug.archer",
+          "IMGR": "http://i.imgur.com/nz10OYa.jpg",
+          "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
         }
       }
     }
