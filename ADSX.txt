@@ -34,7 +34,7 @@
       "RANDUM": {
         "GAME1": {
           "LINK": "com.bug.archer",
-          "IMGR": "http://i.imgur.com/wmA11hS.jpg",
+          "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
         }
       }
