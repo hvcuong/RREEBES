@@ -32,9 +32,11 @@
         "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
       },
       "RANDUM": {
-        "LINK": "com.bug.archer",
-        "IMGR": "http://i.imgur.com/wmA11hS.jpg",
-        "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
+        "GAME1": {
+          "LINK": "com.bug.archer",
+          "IMGR": "http://i.imgur.com/wmA11hS.jpg",
+          "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
+        }
       }
     }
   }
