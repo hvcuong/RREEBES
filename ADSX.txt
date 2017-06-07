@@ -11,12 +11,12 @@
       "RANDUM": {
         "GAME1": {
           "LINK": "com.bug.archer",
-          "IMGR": "http://i.imgur.com/wmA11hS.jpg",
+          "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
         },
         "GAME2": {
           "LINK": "com.bug.archer",
-          "IMGR": "http://i.imgur.com/wmA11hS.jpg",
+          "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
         }
       }
@@ -24,7 +24,7 @@
   },
   "ANDROID": {
     "ISSHOWADS": "true",
-    "SETTYPE": "randum",
+    "SETTYPE": "one",
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
@@ -37,7 +37,7 @@
           "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
         },
-         "GAME2": {
+        "GAME2": {
           "LINK": "com.bug.archer",
           "IMGR": "http://i.imgur.com/nz10OYa.jpg",
           "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
