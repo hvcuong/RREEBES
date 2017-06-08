@@ -23,8 +23,8 @@
     }
   },
   "ANDROID": {
-    "ISSHOWADS": "true",
-    "SETTYPE": "onee",
+    "ISSHOWADS": "false",
+    "SETTYPE": "one",
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
