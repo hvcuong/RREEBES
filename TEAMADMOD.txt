@@ -2,7 +2,7 @@
   "ARCHER": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "1",
         "scoredie": "10"
       },
       "id": {
@@ -14,7 +14,7 @@
   "ARCHERIOS": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "1",
         "scoredie": "10"
       },
       "id": {
