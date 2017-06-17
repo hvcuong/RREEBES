@@ -11,6 +11,18 @@
       }
     }
   },
+  "SPINADRGAME": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "500"
+      },
+      "id": {
+        "banner": "ca-app-pub-6190532367875222/2628171192",
+        "fullbanner": "ca-app-pub-6190532367875222/4104904393"
+      }
+    }
+  },
   "SPINIOS": {
     "admod": {
       "setting": {
