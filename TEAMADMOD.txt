@@ -61,5 +61,18 @@
         "bannervideo": "ca-app-pub-6212138848197070/1250677740"
       }
     }
+  },
+  "STICK": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/6738697749",
+        "fullbanner": "ca-app-pub-6212138848197070/8215430948",
+        "bannervideo": "ca-app-pub-6212138848197070/9692164148"
+      }
+    }
   }
 }
