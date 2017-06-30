@@ -74,5 +74,18 @@
         "bannervideo": "ca-app-pub-6212138848197070/9692164148"
       }
     }
+  },
+  "STICKIOS": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/3645630547",
+        "fullbanner": "ca-app-pub-6212138848197070/5122363743",
+        "bannervideo": "ca-app-pub-6212138848197070/6599096943"
+      }
+    }
   }
 }
