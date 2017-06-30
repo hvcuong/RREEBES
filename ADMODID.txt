@@ -38,7 +38,7 @@
   "SPINADRPLANE": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "3",
         "scoredie": "10"
       },
       "id": {
