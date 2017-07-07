@@ -87,5 +87,18 @@
         "bannervideo": "ca-app-pub-6212138848197070/6599096943"
       }
     }
+  },
+  "FIDGETSPINNER": {
+    "admod": {
+      "setting": {
+        "countdie": "2",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/1910898548",
+        "fullbanner": "ca-app-pub-6212138848197070/3387631744",
+        "bannervideo": "ca-app-pub-6212138848197070/4864364949"
+      }
+    }
   }
 }
