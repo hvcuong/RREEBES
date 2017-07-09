@@ -91,7 +91,7 @@
   "FIDGETSPINNER": {
     "admod": {
       "setting": {
-        "countdie": "2",
+        "countdie": "3",
         "scoredie": "20"
       },
       "id": {
