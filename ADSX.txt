@@ -28,8 +28,8 @@
     "TYPE": {
       "ONE": {
         "LINK": "com.bug.archer",
-        "IMGR": "http://i.imgur.com/wmA11hS.jpg",
-        "IMGPT": "http://i.imgur.com/wmA11hS.jpg"
+        "IMGR": "http://files.cuongbbk.webnode.vn/200000017-011b402158/800X480Fidget%20spinner.jpg",
+        "IMGPT": "http://files.cuongbbk.webnode.vn/200000017-011b402158/800X480Fidget%20spinner.jpg"
       },
       "RANDUM": {
         "GAME1": {
