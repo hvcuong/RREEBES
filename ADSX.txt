@@ -23,7 +23,7 @@
     }
   },
   "ANDROID": {
-    "ISSHOWADS": "true",
+    "ISSHOWADS": "false",
     "SETTYPE": "one",
     "TYPE": {
       "ONE": {
