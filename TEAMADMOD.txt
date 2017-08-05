@@ -121,9 +121,22 @@
         "scoredie": "20"
       },
       "id": {
-       "banner": "ca-app-pub-6212138848197070/7297211343",
+        "banner": "ca-app-pub-6212138848197070/7297211343",
         "fullbanner": "ca-app-pub-6212138848197070/8773944540",
         "bannervideo": "ca-app-pub-6212138848197070/1250677740"
+      }
+    }
+  },
+  "TAZAN": {
+    "admod": {
+      "setting": {
+        "countdie": "3",
+        "scoredie": "20"
+      },
+      "id": {
+        "banner": "ca-app-pub-6212138848197070/3112207481",
+        "fullbanner": "ca-app-pub-6212138848197070/8172962475",
+        "bannervideo": "ca-app-pub-6212138848197070/5178778256"
       }
     }
   }
