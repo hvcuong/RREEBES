@@ -15,7 +15,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "10"
+        "scoredie": "5"
       },
       "id": {
         "banner": "ca-app-pub-6212138848197070/6705442144",
