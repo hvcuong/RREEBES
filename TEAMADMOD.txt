@@ -3,7 +3,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "5"
+        "scoredie": "1"
       },
       "id": {
         "banner": "ca-app-pub-6212138848197070/5420512149",
@@ -15,7 +15,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "5"
+        "scoredie": "1"
       },
       "id": {
         "banner": "ca-app-pub-6212138848197070/6705442144",
