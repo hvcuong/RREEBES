@@ -3,7 +3,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "300"
+        "scoredie": "100"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/3329945597",
@@ -15,7 +15,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "500"
+        "scoredie": "100"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/2628171192",
@@ -27,7 +27,7 @@
     "admod": {
       "setting": {
         "countdie": "1",
-        "scoredie": "500"
+        "scoredie": "100"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/4342347192",
@@ -38,8 +38,8 @@
   "SPINADRPLANE": {
     "admod": {
       "setting": {
-        "countdie": "3",
-        "scoredie": "5"
+        "countdie": "1",
+        "scoredie": "1"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/4342347192",
@@ -50,8 +50,8 @@
   "SPINADRPLANEIOS": {
     "admod": {
       "setting": {
-        "countdie": "2",
-        "scoredie": "5"
+        "countdie": "1",
+        "scoredie": "1"
       },
       "id": {
         "banner": "ca-app-pub-6190532367875222/4878253995",
