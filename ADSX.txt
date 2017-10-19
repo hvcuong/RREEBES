@@ -27,7 +27,7 @@
     "SETTYPE": "one",
     "TYPE": {
       "ONE": {
-        "LINK": "com.bbk.spin",
+        "LINK": "com.bkst.archysticman",
         "IMGR": "http://files.cuongbbk.webnode.vn/200000017-011b402158/800X480Fidget%20spinner.jpg",
         "IMGPT": "http://files.cuongbbk.webnode.vn/200000017-011b402158/800X480Fidget%20spinner.jpg"
       },
