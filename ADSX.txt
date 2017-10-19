@@ -26,7 +26,7 @@
     "ISSHOWADS": "true",
     "SETTYPE": "one",
     "LISTGAME": {
-      "GAME1": "com.bkst.archysticman",
+      "GAME1": "com.bkst.dmm",
       "GAME2": "com.bkst.archysticman",
       "GAME3": "com.bkst.archysticman"
     },
