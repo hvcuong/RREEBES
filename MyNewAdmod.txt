@@ -1,0 +1,14 @@
+{
+  "ARCHER": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "5"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/5102969946",
+        "fullbanner": "ca-app-pub-4147318641606231/7000119940"
+      }
+    }
+  }
+}
