@@ -10,5 +10,17 @@
         "fullbanner": "ca-app-pub-4147318641606231/7000119940"
       }
     }
+  },
+  "ARCHERIOS": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "5"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/1039154749",
+        "fullbanner": "ca-app-pub-4147318641606231/5289444843"
+      }
+    }
   }
 }
