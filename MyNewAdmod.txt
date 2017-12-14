@@ -22,5 +22,19 @@
         "fullbanner": "ca-app-pub-4147318641606231/5289444843"
       }
     }
+  },
+  "SUBWAY": {
+    "admod": {
+      "setting": {
+        "countshow": "0",
+        "showbanneronplay": "1",
+        "showfullonbacktomain": "1",
+        "showfullonopengame": "0"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/4821630855",
+        "fullbanner": "ca-app-pub-4147318641606231/8273790705"
+      }
+    }
   }
 }
