@@ -26,7 +26,7 @@
   "SUBWAY": {
     "admod": {
       "setting": {
-        "countshow": "0",
+        "countshow": "1",
         "showbanneronplay": "1",
         "showfullonbacktomain": "1",
         "showfullonopengame": "0"
