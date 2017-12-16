@@ -41,7 +41,7 @@
   "SUBWAYIOS": {
     "admod": {
       "setting": {
-        "countshow": "1",
+        "countshow": "2",
         "showbanneronplay": "1",
         "showfullonbacktomain": "1",
         "showfullonopengame": "0"
