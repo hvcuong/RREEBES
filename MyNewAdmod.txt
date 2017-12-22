@@ -36,8 +36,7 @@
         "fullbanner": "ca-app-pub-4147318641606231/8273790705"
       }
     }
-  }
-  ,
+  },
   "SUBWAYIOS": {
     "admod": {
       "setting": {
@@ -49,6 +48,18 @@
       "id": {
         "banner": "ca-app-pub-4147318641606231/7438799729",
         "fullbanner": "ca-app-pub-4147318641606231/2186473041"
+      }
+    }
+  },
+  "STIKMANARCHER": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "3"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/5102969946",
+        "fullbanner": "ca-app-pub-4147318641606231/7000119940"
       }
     }
   }
