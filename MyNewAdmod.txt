@@ -62,5 +62,19 @@
         "fullbanner": "ca-app-pub-4147318641606231/4522492777"
       }
     }
+  },
+  "SUBWAYTEAMSTORE": {
+    "admod": {
+      "setting": {
+        "countshow": "1",
+        "showbanneronplay": "1",
+        "showfullonbacktomain": "1",
+        "showfullonopengame": "0"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/4510367560",
+        "fullbanner": "ca-app-pub-4147318641606231/5427917311"
+      }
+    }
   }
 }
