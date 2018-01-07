@@ -100,5 +100,17 @@
         "fullbanner": "ca-app-pub-4147318641606231/6818143739"
       }
     }
+  },
+  "STIKMANHOASTORE": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "2"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/9149088750",
+        "fullbanner": "ca-app-pub-4147318641606231/1086588290"
+      }
+    }
   }
 }
