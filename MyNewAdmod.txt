@@ -112,5 +112,19 @@
         "fullbanner": "ca-app-pub-4147318641606231/1086588290"
       }
     }
+  },
+  "SUBWAYHOATORE": {
+    "admod": {
+      "setting": {
+        "countshow": "1",
+        "showbanneronplay": "1",
+        "showfullonbacktomain": "1",
+        "showfullonopengame": "0"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/9149088750",
+        "fullbanner": "ca-app-pub-4147318641606231/9149088750"
+      }
+    }
   }
 }
