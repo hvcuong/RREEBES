@@ -126,5 +126,17 @@
         "fullbanner": "ca-app-pub-4147318641606231/1086588290"
       }
     }
+  },
+  "STIKMANTEAMSTORE": {
+    "admod": {
+      "setting": {
+        "countdie": "1",
+        "scoredie": "2"
+      },
+      "id": {
+        "banner": "ca-app-pub-4147318641606231/3208799693",
+        "fullbanner": "ca-app-pub-4147318641606231/6983682730"
+      }
+    }
   }
 }
